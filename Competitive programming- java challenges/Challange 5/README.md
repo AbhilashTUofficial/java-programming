@@ -1,14 +1,17 @@
 # Competitive programming java challenges
 
-Challenge 4:
+Challenge 5:
 
 Question:
 	
-	Jake bought 400 hot dogs for the school picnic.
-	If they were contained in packages of 8 hot dogs, how many total packages did he buy?
-	Create a java program without using \ or % operator.
+	During the last week of track training.
+	Shoshanna achieves the following times in seconds
+	rounds:66,57,54,53,64,52,59
+	find her best score using bubble sort
 
 Comment:
 	
-	This one was very easy to me, so i decided make it has a game and i also use some class and object 
-	concepts to make it even harder and functional 
+	This one was little bit tricky for me, because i don't know what the bubble sort algorithm
+	so i done a quick google search,and find out that i know the bubble sort algorithm i used it 
+	several times, but i just don't know that it had a name. Anyway after that i finished the 
+	challange easly 
