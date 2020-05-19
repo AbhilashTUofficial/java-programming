@@ -1,17 +1,13 @@
 # Competitive programming java challenges
 
-Challenge 5:
+Challenge 7:
 
 Question:
 	
-	During the last week of track training.
-	Shoshanna achieves the following times in seconds
-	rounds:66,57,54,53,64,52,59
-	find her best score using bubble sort
+	The city's bus system carries 1.200,000 people
+	each day. How many people does the bus system carry each year?
+	Solve without */ operator, bitwise operator or loop.
 
 Comment:
 	
-	This one was little bit tricky for me, because i don't know what the bubble sort algorithm
-	so i done a quick google search,and find out that i know the bubble sort algorithm i used it 
-	several times, but i just don't know that it had a name. Anyway after that i finished the 
-	challange easly 
+	It was fairly eassy, i use recursion to find the answer. 
