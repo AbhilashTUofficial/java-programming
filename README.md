@@ -17,8 +17,3 @@ Why java is my favourite?
 	2. java forced me to learn everything deeply
 
 	3. I like java because it is platform independent and fast
-=======
- 
- 
- I Learned java 
->>>>>>> 924099aa009f8cc0978f85769de23e9ae8fe9fef
