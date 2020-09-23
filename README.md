@@ -1,10 +1,9 @@
 # Early days with java
-<<<<<<< HEAD
   
 I learned java when i'm 18 years old. I was truly amazed by it's power and speed. After my learning c++ i learned 
 python, but i don't like python too much because of it's less speed and less complexity, yeah it's odd i like more 
 complexity rather than easy once because it's force me to hit my limit. 
-It was the time of COVID-19 pandemic, i requested to once of my collage computer science teacher to give me a project, and she told me to build an app, it was that magical momment. I forced my self to learn java. At the beginning it was hard to me, to learn an completly complex new language, but i eventually fall in love with java.
+It was the time of COVID-19 pandemic, i requested to once of my collage computer science teacher to give me a project, and she told me to build an app, it was that magical momment. I forced my self to learn java. At the beginning it was hard for me, to learn an completly complex new language, but i eventually fall in love with java.
 and now i like java more than any language.
 
 
