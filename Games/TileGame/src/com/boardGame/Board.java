@@ -19,6 +19,15 @@ public class Board extends JPanel implements KeyListener, ActionListener {
     private static int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
     private int index = 0;
     private String number;
+    private static int holeIndex;
+
+
+    Board() {
+        addKeyListener(this);
+        setFocusable(true);
+        setFocusTraversalKeysEnabled(false);
+    }
+
 
     //SetUp functions
     public void setUp() {
@@ -32,15 +41,23 @@ public class Board extends JPanel implements KeyListener, ActionListener {
     }
 
 
-    public static int[] randomize(int[] array) {
+    public static void randomize(int[] array) {
         Random rand = new Random();
-        for (int i = array.length - 1; i > 0; i--) {
+        for(int i=0;i<array.length;i++){
             int j = rand.nextInt(i + 1);
             int temp = array[i];
             array[i] = array[j];
             array[j] = temp;
         }
-        return array;
+    }
+
+    public static int findHole(int[] array) {
+        for (int i = 0; i < array.length ; i++) {
+            if (array[i] == 9) {
+                holeIndex = i;
+            }
+        }
+        return holeIndex;
     }
 
 
@@ -54,12 +71,10 @@ public class Board extends JPanel implements KeyListener, ActionListener {
         number = String.valueOf(array[index]);
         if (number.equals("9")) {
             g.setColor(Color.darkGray);
-            g.fillRect(x+30,y+30,tileSize-80,tileSize-80);
+            g.fillRect(x + 30, y + 30, tileSize - 80, tileSize - 80);
         } else {
-            g.drawString(number, x + 1 * 70, y + 1 * 130);
+            g.drawString(number, x + 70, y + 130);
         }
-
-
     }
 
     @Override
@@ -77,11 +92,13 @@ public class Board extends JPanel implements KeyListener, ActionListener {
                 index += 1;
             }
         }
+
     }
 
 
     @Override
     public void actionPerformed(ActionEvent e) {
+
 
     }
 
@@ -92,6 +109,52 @@ public class Board extends JPanel implements KeyListener, ActionListener {
 
     @Override
     public void keyPressed(KeyEvent e) {
+        if (e.getKeyCode() == KeyEvent.VK_RIGHT) {
+            holeIndex=findHole(array);
+            System.out.println(holeIndex);
+            if(holeIndex<9 && holeIndex>5){
+                System.out.println("cant move");
+            }
+            else{
+                System.out.println("right");
+                int temp=array[holeIndex];
+                array[holeIndex]=array[holeIndex+2];
+                array[holeIndex+2]=temp;
+            }
+
+        }
+        if (e.getKeyCode() == KeyEvent.VK_LEFT) {
+            holeIndex=findHole(array);
+            System.out.println(holeIndex);
+            if(holeIndex<3 && holeIndex>-1){
+                System.out.println("cant move");
+            }
+            else{
+                System.out.println("left");
+            }
+
+        }
+        if (e.getKeyCode() == KeyEvent.VK_UP) {
+            holeIndex=findHole(array);
+            System.out.println(holeIndex);
+            if(holeIndex==0 || holeIndex==3 || holeIndex==6){
+                System.out.println("cant move");
+            }
+            else{
+                System.out.println("up");
+            }
+
+        }
+        if (e.getKeyCode() == KeyEvent.VK_DOWN) {
+            holeIndex=findHole(array);
+            System.out.println(holeIndex);
+            if(holeIndex==2 || holeIndex==5 || holeIndex==8){
+                System.out.println("cant move");
+            }
+            else{
+                System.out.println("down");
+            }
+        }
 
     }
 
