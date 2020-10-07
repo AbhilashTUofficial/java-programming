@@ -104,7 +104,6 @@ public class Board extends JPanel implements KeyListener, ActionListener {
 
     @Override
     public void keyTyped(KeyEvent e) {
-
     }
 
     @Override
