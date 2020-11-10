@@ -6,9 +6,11 @@ import java.awt.*;
 public class Viewer extends JPanel {
     int width=800;
     int height=800;
+    Image openImg;
 
-    Viewer(){
+   public Viewer(Image openImg){
         setFocusable(true);
+        this.openImg=openImg;
     }
     @Override
     public void paint(Graphics g) {
@@ -17,6 +19,6 @@ public class Viewer extends JPanel {
         g.fillRect(0,0,width,height);
         Toolkit t= Toolkit.getDefaultToolkit();
         Image img=t.getImage("Assets/Img/logo.png");
-        g.drawImage(img,100,100,this);
+        g.drawImage(openImg,100,100,this);
     }
 }
