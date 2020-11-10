@@ -15,6 +15,6 @@ WHAT I LEARNED:
 
 
        1. By developing this game i understood that making stuffs for others make me more happy
-	  instead of my own self salvation.
+	  instead of my own salvation.
 
       
