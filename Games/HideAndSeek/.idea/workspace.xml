@@ -25,7 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pong(minimal)-java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -74,33 +74,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="246" key="#com.intellij.ide.util.MemberChooser" timestamp="1606490876918">
+    <state x="765" y="246" key="#com.intellij.ide.util.MemberChooser" timestamp="1606829462375">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="765" y="246" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1606490876918" />
-    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1606490622502">
+    <state x="765" y="246" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1606829462375" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1606639028488">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1606490622502" />
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1606492459344">
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1606639028488" />
+    <state width="1877" height="292" key="GridCell.Tab.0.bottom" timestamp="1606836286393">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606492459344" />
-    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1606492459344">
+    <state width="1877" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606836286393" />
+    <state width="1877" height="292" key="GridCell.Tab.0.center" timestamp="1606836286393">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606492459344" />
-    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1606492459344">
+    <state width="1877" height="292" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606836286393" />
+    <state width="1877" height="292" key="GridCell.Tab.0.left" timestamp="1606836286393">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606492459344" />
-    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1606492459344">
+    <state width="1877" height="292" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606836286393" />
+    <state width="1877" height="292" key="GridCell.Tab.0.right" timestamp="1606836286393">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606492459344" />
-    <state x="461" y="185" key="SettingsEditor" timestamp="1606489891498">
+    <state width="1877" height="292" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606836286393" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1606823296709">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1606489891498" />
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1606823296708" />
   </component>
 </project>

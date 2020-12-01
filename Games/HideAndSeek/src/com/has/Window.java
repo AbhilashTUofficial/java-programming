@@ -16,5 +16,6 @@ public class Window {
         GameLogic gamePlay=new GameLogic();
         win.add(gamePlay);
 
+
     }
 }
