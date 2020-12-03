@@ -24,13 +24,12 @@ public class GameLogic extends JPanel implements ActionListener, KeyListener, Mo
     Font font=new Font("Courier",0,80);
 
 
-    public static int[] randamize(){
+    public static void randamize(){
         Random rand = new Random();
         int tempI=rand.nextInt(3);
         int tempJ=rand.nextInt(3);
         temp[0]=tempI;
         temp[1]=tempJ;
-        return temp;
     }
 
     public GameLogic() {
