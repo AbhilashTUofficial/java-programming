@@ -8,30 +8,29 @@ public class Main {
     public static void main(String[] args) {
         int x=3;
         int y=3;
-        boolean gameRunning=true;
 
         char[][] grid={{'.','.','.'},{'.','.','.'},{'.','.','.'}};
-        print(grid,gameRunning);
+        print(grid);
 
     }
-    public static void print(char[][] grid,boolean gameRunning){
+    public static void print(char[][] grid){
         for(int i=0;i<3;i++){
             System.out.println(Arrays.deepToString(grid));
-            while (gameRunning){
+            while (true){
                 int[] coords=move();
                 int x=coords[0];
                 int y=coords[1];
-                moveCheck(x,y,grid,gameRunning);
+                moveCheck(x,y,grid);
             }
 
 
         }
     }
-    public static void moveCheck(int x,int y,char[][] grid,boolean gameRunning){
+    public static void moveCheck(int x,int y,char[][] grid){
         if(x!=3){
             if(y!=3){
                 insertElm(x,y,grid);
-                print(grid,gameRunning);
+                print(grid);
             }
         }
     }
