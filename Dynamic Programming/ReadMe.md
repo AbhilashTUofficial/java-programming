@@ -1,5 +1,5 @@
 #Dynamic programming
-###Definition:
+Definition:
     Dynamic programming is both a mathematical optimization method and a computer programming 
     method. The method was developed by Richard Bellman in the 1950s and has found applications 
     in numerous fields, from aerospace engineering to economics.
@@ -15,7 +15,7 @@
     the Bellman equation.
 *[Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming)*
 
-###Memoization:
+Memoization:
     In computing, memoization or memoisation is an optimization technique used primarily to speed 
     up computer programs by storing the results of expensive function calls and returning the cached 
     result when the same inputs occur again. Memoization has also been used in other contexts 
@@ -25,7 +25,7 @@
     languages, memoization is also known as tabling.
 *[Wikipedia](https://en.wikipedia.org/wiki/Memoization#:~:text=In%20computing%2C%20memoization%20or%20memoisation,the%20same%20inputs%20occur%20again.)*
 
-###Tabulation hashing:
+Tabulation hashing:
     In computer science, tabulation hashing is a method for constructing universal families of hash functions 
     by combining table lookup with exclusive or operations. It was first studied in the form of Zobrist 
     hashing for computer games; later work by Carter and Wegman extended this method to arbitrary fixed-length 
@@ -40,7 +40,7 @@
     estimating the size of set intersections.
 *[Wikipedia](https://en.wikipedia.org/wiki/Tabulation_hashing)*
 
-###Memoization problem:
+Memoization problem:
     1.Make it work.
     
         - Visualize the problem as a tree.
