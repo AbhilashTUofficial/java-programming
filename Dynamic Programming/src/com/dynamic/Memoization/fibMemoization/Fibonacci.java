@@ -40,9 +40,7 @@ public class Fibonacci {
         // Height: 5, n
         // ie, Time complexity of foo(n) is O(n)
 
-        if(n<=1){
-            return 0;
-        }
+        if(n<=1)return 0;
         return (n-1);
     }
     public static int bar(int n){
@@ -55,9 +53,7 @@ public class Fibonacci {
         //   (2)
         // Height: 3, n/2
         // ie, Time complexity of bar(n/2) ie O(n)
-        if(n<=1){
-            return 0;
-        }
+        if(n<=1)return 0;
         return bar(n-2);
     }
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -91,9 +87,7 @@ public class Fibonacci {
         // every time a value is return it pop from the
         // call stack ie, dib only have O(height) space complexity
         // space complexity O(n)
-        if(n<=1){
-            return 0;
-        }
+        if(n<=1)return 0;
         return dib(n-1)+dib(n-1);
     }
     public static int lib(int n){
@@ -126,9 +120,7 @@ public class Fibonacci {
         // every time a value is return it pop from the
         // call stack ie, dib only have O(height/2) space complexity
         // space complexity O(n)
-        if(n<=1){
-            return 0;
-        }
+        if(n<=1)return 0;
         return lib(n-2)+lib(n-2);
     }
     public static int fibRec(int n){
@@ -163,9 +155,7 @@ public class Fibonacci {
         // ie,
         //    O(dib)<=O(fibRec)<=O(lib)
         //    O(2^n)<= O(2^n)  <=O(2^n)
-        if(n<=2){
-            return 1;
-        }
+        if(n<=2)return 1;
         return fibRec(n-1)+fibRec(n-2);
     }
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -193,12 +183,9 @@ public class Fibonacci {
         //     / \
         //    /   \
         //  (2)   (1)
-        if(memo.containsKey(n)){
-            return (int) memo.get(n);
-        }
-        if(n<=2){
-            return 1;
-        }
+        if(memo.containsKey(n))return (int) memo.get(n);
+        if(n<=2)return 1;
+
         memo.put(n, fibRec2(n-1,memo)+fibRec2(n-2,memo));
         return (int) memo.get(n);
     }
