@@ -41,8 +41,8 @@ Tabulation hashing:
 *[Wikipedia](https://en.wikipedia.org/wiki/Tabulation_hashing)*
 
 Memoization problem:
+
     1.Make it work.
-    
         - Visualize the problem as a tree.
         - Implement the tree using recursion.
         - test it.
