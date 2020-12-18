@@ -1,4 +1,4 @@
-https://img.shields.io/github/last-commit/AbhilashTuofficial/java-programming?logo=java&style=for-the-badge
+![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTuofficial/java-programming?logo=java&style=for-the-badge)
 # Early days with java
   
 I learned java when i'm 18 years old. I was truly amazed by it's power and speed. After my learning c++ i learned 
