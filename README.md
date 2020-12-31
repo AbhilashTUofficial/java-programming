@@ -1,5 +1,8 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTuofficial/java-programming?logo=java&style=for-the-badge)
-# Early days with java
+#java-programming
+![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/java-programming?color=orange&label=Last%20Commit%3A&style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/java-programming?color=orange&label=Repo%20Size%3A&style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/AbhilashTUofficial/java-programming?color=orange&style=for-the-badge)
+<br/><br/>
   
 I learned java when i'm 18 years old. I was truly amazed by it's power and speed. After my learning c++ i learned 
 python, but i don't like python too much because of it's less speed and less complexity, yeah it's odd i like more 
