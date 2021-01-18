@@ -19,27 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d973b692-d921-4392-890a-b055d996f94f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dynamic Programming/META-INF/Dynamic Programming.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dynamic Programming/com/dynamic/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dynamic Programming/com/dynamic/Memoization/CanSum/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dynamic Programming/com/dynamic/Memoization/fibMemoization/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dynamic Programming/com/dynamic/Memoization/gridTravelerMemoization/gridTraveler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dynamic/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dynamic/Memoization/CanSum/canSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dynamic/Memoization/fibMemoization/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dynamic/Memoization/gridTravelerMemoization/gridTraveler.java" beforeDir="false" />
-    </list>
+    <list default="true" id="d973b692-d921-4392-890a-b055d996f94f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,8 +45,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Dynamic-programming/Youtube/Dynamic Programming" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Application.Main (2)">
@@ -134,10 +117,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.gridTraveler" />
       <item itemvalue="Application.sub" />
-      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
@@ -175,6 +158,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1608895090389">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1608895090389" />
     <state width="1877" height="289" key="GridCell.Tab.0.bottom" timestamp="1608894827139">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
