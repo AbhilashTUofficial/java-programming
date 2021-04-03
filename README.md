@@ -5,13 +5,13 @@ I learned java when I'm 18 years old. I was truly amazed by its power and speed.
 [<img align="left" alt="Visual Studio Code" width="26px" src="./Img/vscode.png">][vscode]
 [<img align="left" alt="Android studio" width="28px" src="./Img/androidstudio.png">][android]
 [<img align="left" alt="Intellij" width="26px" src="./Img/intellij.png">][java]
-[<img align="left" alt="Java" width="32px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/java.png">][java]
+[<img align="left" alt="Java" width="28px" src="./Img/java.png">][java]
 <br/><br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/java-programming?color=orange&label=Last%20Commit%3A&style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/java-programming?color=orange&label=Repo%20Size%3A&style=for-the-badge)
-|BlockCrush| BlockCrush |BlockCrush|Pong|
+|BlockCrush| BlockCrush |TU Text Editor|Pong|
 |------|-------|-------|------|
-|<img src="https://github.com/AbhilashTUofficial/java-programming/Games/Img/BlockCrush1.png" width="200">|<img src="https://github.com/AbhilashTUofficial/java-programming/Games/Img/BlockCrush2.png" width="200">|<img src="https://github.com/AbhilashTUofficial/java-programming/Games/Img/BlockCrush3.png" width="200">|<img src="https://github.com/AbhilashTUofficial/java-programming/Games/Img/Pong1.png" width="200">|
+|<img src="./Img/javaBlockCrush1.png" width="200">|<img src="./Img/javaBlockCrush2.png" width="200">|<img src="./Img/TUtextEditor2.png" width="200">|<img src="./Img/javaPong1.png" width="200">|
 
 ### Connect with me :  
 <a href="https://twitter.com/Abhilash_TU" target="_blank">
