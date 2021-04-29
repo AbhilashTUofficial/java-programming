@@ -12,6 +12,10 @@ I learned java when I'm 18 years old. I was truly amazed by its power and speed.
 |BlockCrush| BlockCrush |TU Text Editor|Pong|
 |------|-------|-------|------|
 |<img src="./Img/javaBlockCrush1.png" width="200">|<img src="./Img/javaBlockCrush2.png" width="200">|<img src="./Img/TUtextEditor2.png" width="200">|<img src="./Img/javaPong1.png" width="200">|
+|CrossWord Puzzle| Tic Tac Toe |Age Calculator|Snake Game|
+|<img src="./Img/crosswordPuzzleJava.png" width="200">|<img src="./Img/ticTacToeJava.png" width="200">|<img src="./Img/ageCalculatorJava.png" width="200">|<img src="./Img/snakeGameJava0.png" width="200">|
+|Convertor| File Metadata |IP Finder|Calculator|
+|<img src="./Img/converterJava1.png" width="200">|<img src="./Img/FileMetadata.png" width="200">|<img src="./Img/IPFinder-Java1.png" width="200">|<img src="./Img/javaCalculator.png" width="200">|
 
 ### Connect with me :  
 <a href="https://twitter.com/Abhilash_TU" target="_blank">
