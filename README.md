@@ -15,16 +15,18 @@ I learned java when I'm 18 years old. I was truly amazed by its power and speed.
 |CrossWord Puzzle| Tic Tac Toe |Age Calculator|Snake Game|
 |<img src="./Img/crosswordPuzzleJava.png" width="200">|<img src="./Img/ticTacToeJava.png" width="200">|<img src="./Img/ageCalculatorJava.png" width="200">|<img src="./Img/snakeGameJava0.png" width="200">|
 |Convertor| File Metadata |IP Finder|Calculator|
-|<img src="./Img/converterJava1.png" width="200">|<img src="./Img/FileMetadata.png" width="200">|<img src="./Img/IPFinder-Java1.png" width="200">|<img src="./Img/javaCalculator.png" width="200">|
+|<img src="./Img/converterJava1.png" width="200">|<img src="./Img/FileMetadata.png" width="200">|<img src="./Img/IPFinder-Java1.png" width="200">|<img src="./Img/JavaCalculator.png" width="200">|
+|Clock| MorseCode Translator |
+|<img src="./Img/javaClock1.png" width="200">|<img src="./Img/morse_code_translator_1.png" width="200">|
 
-### Connect with me :  
-<a href="https://twitter.com/Abhilash_TU" target="_blank">
+## Connect with me:  
+<a href="https://grabify.link/34LU2G" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/Abhilashtuofficial" target="_blank">
+<a href="https://grabify.link/A9HVHU" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/abhilash_tu/" target="_blank">
+<a href="https://grabify.link/T0ZFYZ/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <br/>
